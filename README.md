@@ -6,7 +6,7 @@
 - **Estado**: Regular (vigente al 16/03/2025)  
 - **Código de Validación**: `25031620432171`  
 - **Verificación**: [Validar Certificado](https://guaraniautogestion.fi.uba.ar/g3w/validador_certificados)
-- 
+
 ---
 
 ## 📬 Contacto
